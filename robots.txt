@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap:  https://56kbet.ulrich-bauer.org/sitemap.xml
